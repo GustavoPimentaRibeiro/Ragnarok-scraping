@@ -9,6 +9,8 @@ O intuito deste projeto é somente pegar dados de um site que contém informaç�
 ## Funcionamento
 O necessário é só modificar os ID's dos monstros que deseja pesquisar, neste projeto deixei alguns de exemplo mas você pode colocar vários ID's para pesquisa. Desta forma será retornado um arquivo .JSON com os dados que foram coletados.
 
+## Bibliotecas
+Puppeteer e Fs
 
 ## Créditos
 Créditos ao *DivinePride*, provedor das informações.
