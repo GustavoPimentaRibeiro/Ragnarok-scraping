@@ -13,5 +13,8 @@ O necessário é só modificar os ID's dos monstros que deseja pesquisar, neste 
 Puppeteer - puppeteer v17.1.3 | puppeteer extra v3.3.4
 Fs
 
+## Tecnologias
+Node, JavaScript e JSON
+
 ## Créditos
 Créditos ao *DivinePride*, provedor das informações.
